@@ -23,8 +23,24 @@ The data was prepared in **Excel**, queried with **SQL** for aggregation, and vi
 - Europe region contributes the largest share of revenue (**37.7%**).  
 
 ---
+## 📂 Repo Structure
+Services-Revenue-Analysis/
+│
+├── Data/
+│ └── Branch_data.csv
+│ └── Services_data.csv
+│
+├── SQL/
+│ └── SQLQuery1.sql
+│ └── SQL (code).txt
+│
+├── PowerBI/
+│ └── Services_Revenue.pbix
+│ └── Dashboard.png
+│
+└── README.md
 
-
+---
 ## 🚀 Dashboard
 ![DashBoard P](https://github.com/user-attachments/assets/39e2cce5-2c5c-4a44-8871-66b5ef7c3be5)
 
